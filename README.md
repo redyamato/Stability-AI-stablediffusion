@@ -3,7 +3,7 @@
 ![t2i](assets/stable-samples/txt2img/768/merged-0002.png)
 ![t2i](assets/stable-samples/txt2img/768/merged-0005.png)
 
-This repository contains [Stable Diffusion](https://github.com/CompVis/stable-diffusion) models trained from scratch and will be continuously updated with
+This repository contains [Stable Diffusion](https://github.com/joypaul162/Stability-AI-stablediffusion) models trained from scratch and will be continuously updated with
 new checkpoints. The following list provides an overview of all currently available models. More coming soon.
 
 ## News
@@ -35,7 +35,7 @@ Per default, the attention operation of the model is evaluated at full precision
 - New [depth-guided stable diffusion model](#depth-conditional-stable-diffusion), finetuned from _SD 2.0-base_. The model is conditioned on monocular depth estimates inferred via [MiDaS](https://github.com/isl-org/MiDaS) and can be used for structure-preserving img2img and shape-conditional synthesis.
 - A [text-guided inpainting model](#image-inpainting-with-stable-diffusion), finetuned from SD _2.0-base_.
 
-We follow the [original repository](https://github.com/CompVis/stable-diffusion) and provide basic inference scripts to sample from the models.
+We follow the [original repository](https://github.com/joypaul162/Stability-AI-stablediffusion) and provide basic inference scripts to sample from the models.
 
 ________________
 *The original Stable Diffusion model was created in a collaboration with [CompVis](https://arxiv.org/abs/2202.00512) and [RunwayML](https://runwayml.com/) and builds upon the work:*
