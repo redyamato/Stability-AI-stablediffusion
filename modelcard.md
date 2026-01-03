@@ -7,7 +7,7 @@ This model card focuses on the models associated with the Stable Diffusion v2, a
 - **Language(s):** English
 - **License:** CreativeML Open RAIL++-M License
 - **Model Description:** This is a model that can be used to generate and modify images based on text prompts. It is a [Latent Diffusion Model](https://arxiv.org/abs/2112.10752) that uses a fixed, pretrained text encoder ([OpenCLIP-ViT/H](https://github.com/mlfoundations/open_clip)).
-- **Resources for more information:** [GitHub Repository](https://github.com/Stability-AI/).
+- **Resources for more information:** [GitHub Repository](https://github.com/joypaul162/Stability-AI-stablediffusion.git).
 - **Cite as:**
 
       @InProceedings{Rombach_2022_CVPR,
